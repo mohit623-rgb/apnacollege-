@@ -1,3 +1,4 @@
 # apnacollege-
 this is my first git hub repository
-author-MOhit dhiman
+<br>
+<h2>author-MOhit dhiman</h2>
